@@ -6,6 +6,8 @@ A [Code for Durham](http://codefordurham.com) project for the [End Hunger Durham
 
 TBD
 
+- You'll need access to a GoogleService-info.plist for this app to run. Contact Josh on the Code for Durham Slack.
+
 ## Deployment
 
 TBD
