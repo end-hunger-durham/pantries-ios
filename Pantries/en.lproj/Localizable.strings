@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Pantries
+
+  Created by Josh Johnson on 6/12/18.
+  Copyright © 2018 End Hunger Durham. All rights reserved.
+*/
+
+app_title="Pantries";
+
+item_detail_address="Address";
+item_detail_available="Available";
+item_detail_prereqs="Prereqs";
+item_detail_info="Info";
+
+tab_item_list="List";
+tab_item_map="Map";

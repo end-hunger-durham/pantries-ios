@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Pantries
+
+  Created by Josh Johnson on 6/12/18.
+  Copyright © 2018 End Hunger Durham. All rights reserved.
+*/
+
+app_title="Despensas";
+
+item_detail_address="Dirección";
+item_detail_available="Disponibilidad";
+item_detail_prereqs="Requisitos";
+item_detail_info="Información";
+
+tab_item_list="List";
+tab_item_map="Map";
