@@ -1,6 +1,4 @@
 git_url("git@github.com:end-hunger-durham/pantries-match-certificates.git")
-
 type("appstore")
 app_identifier(["org.endhungerdurham.pantries"])
 username("jnjosh@jnjosh.com")
-
